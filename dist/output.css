@@ -635,6 +635,26 @@ video {
   display: flex;
 }
 
+.w-full {
+  width: 100%;
+}
+
+.w-\[150px\] {
+  width: 150px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[170px\] {
+  width: 170px;
+}
+
+.w-\[160px\] {
+  width: 160px;
+}
+
 .max-w-\[1000px\] {
   max-width: 1000px;
 }
