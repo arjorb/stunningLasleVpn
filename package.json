@@ -1,0 +1,22 @@
+{
+  "name": "stunninglaslevpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjorb/stunningLasleVpn.git"
+  },
+  "author": "John Uwimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjorb/stunningLasleVpn/issues"
+  },
+  "homepage": "https://github.com/arjorb/stunningLasleVpn#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
