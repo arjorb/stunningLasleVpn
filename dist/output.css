@@ -551,6 +551,34 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.top-\[-50\] {
+  top: -50;
+}
+
+.left-0 {
+  left: 0px;
+}
+
+.top-\[-100px\] {
+  top: -100px;
+}
+
+.top-\[-10px\] {
+  top: -10px;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -594,6 +622,11 @@ video {
 .my-\[3rem\] {
   margin-top: 3rem;
   margin-bottom: 3rem;
+}
+
+.my-\[8rem\] {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
 }
 
 .mt-5 {
@@ -664,6 +697,10 @@ video {
   margin-top: 4rem;
 }
 
+.mt-\[8rem\] {
+  margin-top: 8rem;
+}
+
 .flex {
   display: flex;
 }
@@ -728,6 +765,14 @@ video {
   width: 60px;
 }
 
+.w-full {
+  width: 100%;
+}
+
+.w-\[1000px\] {
+  width: 1000px;
+}
+
 .min-w-\[400px\] {
   min-width: 400px;
 }
@@ -746,6 +791,10 @@ video {
 
 .min-w-\[390px\] {
   min-width: 390px;
+}
+
+.min-w-\[1000px\] {
+  min-width: 1000px;
 }
 
 .max-w-\[1000px\] {
@@ -991,6 +1040,31 @@ video {
 .py-\[3rem\] {
   padding-top: 3rem;
   padding-bottom: 3rem;
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.py-\[20px\] {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.py-\[30px\] {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.py-\[40px\] {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.py-\[50px\] {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .pt-\[3rem\] {
