@@ -618,6 +618,11 @@ video {
   margin-bottom: 5rem;
 }
 
+.my-\[10rem\] {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
 .mt-5 {
   margin-top: 1.25rem;
 }
