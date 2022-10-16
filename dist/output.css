@@ -1157,6 +1157,10 @@ video {
   transition-duration: 500ms;
 }
 
+.duration-300 {
+  transition-duration: 300ms;
+}
+
 .hover\:border-\[red\]:hover {
   --tw-border-opacity: 1;
   border-color: rgb(255 0 0 / var(--tw-border-opacity));
